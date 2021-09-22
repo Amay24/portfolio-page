@@ -1,1 +1,1 @@
-# portfolio-page
+For this assignment I made the basic structure for a portfolio page in which I will add my future projects. 
